@@ -1,0 +1,22 @@
+# FastAPI Backend
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.4.2
+python-multipart==0.0.6
+
+# Kafka
+kafka-python==2.0.2
+confluent-kafka==2.2.0
+
+# Database & APIs
+requests==2.31.0
+psycopg2-binary==2.9.7
+sqlalchemy>=1.4.0,<2.0.0
+databricks-sql-connector==2.9.2
+pandas==2.1.3
+python-dotenv==1.0.0
+
+# Airflow (Pydantic 2.x compatible)
+apache-airflow==2.9.3
+apache-airflow-providers-apache-kafka==1.2.0
+apache-airflow-providers-http==4.5.0
