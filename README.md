@@ -4,12 +4,13 @@ A production-grade real-time flight tracking system demonstrating big data engin
 
 ## Features
 
+- **Streaming Pipeline**: Apache Kafka for real-time data processing
 - **Real-time Flight Tracking**: Live flight data from OpenSky Network API
 - **Big Data Processing**: Databricks integration for scalable analytics
 - **Microservices Architecture**: Containerized services with Docker
 - **Real-time Dashboard**: React frontend with interactive maps
 - **Workflow Orchestration**: Apache Airflow for pipeline management
-- **Streaming Pipeline**: Apache Kafka for real-time data processing
+
 
 ## System Architecture
 
